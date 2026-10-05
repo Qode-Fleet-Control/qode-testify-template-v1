@@ -3,3 +3,5 @@
 .fleet
 .bin
 *.db
+.fleet-deploy.log
+.venv
