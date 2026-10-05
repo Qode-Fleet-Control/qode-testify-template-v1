@@ -1,4 +1,4 @@
-module github.com/Qode-Platform/qode-testify-template-v1
+module github.com/Qode-Fleet-Control/qode-testify-template-v1
 
 go 1.23
 
